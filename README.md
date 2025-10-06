@@ -5,7 +5,7 @@ A portfolio of the CAD designs I have either created from objects that looked fu
 ## CAD Desugbs
 ### Internal Lathe Jaw
 
-![Alt text](image-path-or-URL)
+![Internal Lathe Jaw](https://github.com/w-van-den-Bergh/cad-portfolio/blob/main/internal_lathe_jaw/10_4_internal_lathe_jaw.PNG)
 
 **Link:** [CAD Design](https://github.com/w-van-den-Bergh/cad-portfolio/blob/main/internal_lathe_jaw/info.md)
 
