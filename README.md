@@ -15,3 +15,10 @@ A portfolio of the CAD designs I have either created from objects that looked fu
 ![Rope Thimble](https://github.com/w-van-den-Bergh/cad-portfolio/blob/main/rope_thimble/rope_thimble_image.PNG)
 
 **Link:** [CAD Design](https://github.com/w-van-den-Bergh/cad-portfolio/blob/main/rope_thimble/info.md)
+
+
+## Wrench Body
+
+![Wrench Body](https://github.com/w-van-den-Bergh/cad-portfolio/blob/main/wrenc_body/wb.PNG)
+
+**Link:** [CAD Design](https://github.com/w-van-den-Bergh/cad-portfolio/blob/main/wrenc_body/info.md)
